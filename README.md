@@ -2,6 +2,8 @@
 
 A lightly customized default theme for [FileBrowser](https://filebrowser.org/). This theme preserves the essence of the default FileBrowser UI while incorporating subtle improvements for better aesthetics and usability.
 
+NOTE: This theme intentionally removes the "New file" feature from the left navigation, as it aligns with my specific use case. If you wish to reinstate this feature, you can find the `nav button.action[aria-label="New file"]` CSS selector in the `custom.css` file and remove it.
+
 ## Features
 
 - **Updated FileBrowser Icon**: The main FileBrowser icon has been replaced with a new one from [SVG Repo](https://www.svgrepo.com/svg/467100/list-square) to make the application feel more modern.

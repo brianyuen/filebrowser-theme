@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg44" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" viewBox="0 0 560 560">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #2ca7ba;
+      }
+
+      .st1 {
+        stroke-width: 55.8px;
+      }
+
+      .st1, .st2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st2 {
+        stroke-width: 69.7px;
+      }
+    </style>
+  </defs>
+  <sodipodi:namedview id="namedview46" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg44" inkscape:cx="-172.33051" inkscape:cy="280" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="711" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="20" inkscape:zoom="0.33714286" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+  <g>
+    <rect class="st0" x="36.1" y="35.6" width="488.8" height="488.8"/>
+    <g id="list-square">
+      <line id="primary-upstroke" class="st2" x1="153.7" y1="168.5" x2="156.5" y2="168.5"/>
+      <line id="primary-upstroke-2" class="st2" x1="153.7" y1="280" x2="156.5" y2="280"/>
+      <line id="primary-upstroke-3" class="st2" x1="153.7" y1="391.5" x2="156.5" y2="391.5"/>
+      <path id="primary" class="st1" d="M280.5,168.5h139.4M280.5,280h139.4M280.5,391.5h139.4M29.6,57v446c0,15.4,12.5,27.9,27.9,27.9h446c15.4,0,27.9-12.5,27.9-27.9V57c0-15.4-12.5-27.9-27.9-27.9H57.5c-15.4,0-27.9,12.5-27.9,27.9Z"/>
+    </g>
+  </g>
+</svg>

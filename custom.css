@@ -1,0 +1,65 @@
+:root {
+  --blue: #2CA7BA;
+  --dark-blue: #17717f;
+  --icon-blue: #2CA7BA;
+}
+
+nav {
+  top: 6.2em
+}
+
+@media (max-width: 736px) {
+  nav {
+    top: 4rem
+  }
+}
+
+nav .action {
+  font-size: 0.9em;
+}
+
+nav .material-icons {
+  font-size: 1.1rem
+}
+
+nav button.action[aria-label="My files"] {
+  padding-bottom: 0.5rem;
+}
+
+nav button.action[aria-label="New file"] {
+  display: none
+}
+
+nav button.action[aria-label="Logout"] {
+  margin-top: 3rem;
+}
+
+nav .credits .vue-simple-progress {
+  background: var(--divider) !important;
+}
+
+nav .credits .vue-simple-progress-bar {
+  background: var(--blue) !important;
+}
+
+nav .credits {
+  margin: 2em 2.5em 3em 1rem !important
+}
+
+main {
+  margin: 1.8em 1em 1em auto;
+}
+
+main .breadcrumbs {
+  height: 3.4em
+}
+
+main .share canvas {
+  border: 10px solid var(--item-selected);
+  border-radius: 10px;
+  transform: scale(0.6);
+}
+
+main .share .share__box__icon i {
+  color: var(--blue)
+}

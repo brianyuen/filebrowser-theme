@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 700 700">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-width: 68.8px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st1 {
+        stroke-width: 86px;
+      }
+    </style>
+  </defs>
+  <g id="list-square">
+    <line id="primary-upstroke" class="st1" x1="192.9" y1="212.4" x2="196.4" y2="212.4"/>
+    <line id="primary-upstroke-2" class="st1" x1="192.9" y1="350" x2="196.4" y2="350"/>
+    <line id="primary-upstroke-3" class="st1" x1="192.9" y1="487.6" x2="196.4" y2="487.6"/>
+    <path id="primary" class="st0" d="M349.5,212.4h172.1M349.5,350h172.1M349.5,487.6h172.1M39.8,74.7v550.6c0,19,15.4,34.4,34.4,34.4h550.6c19,0,34.4-15.4,34.4-34.4V74.7c0-19-15.4-34.4-34.4-34.4H74.2c-19,0-34.4,15.4-34.4,34.4Z"/>
+  </g>
+</svg>

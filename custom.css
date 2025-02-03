@@ -4,6 +4,12 @@
   --icon-blue: #2CA7BA;
 }
 
+header {
+  background: var(--background);
+  border-bottom: 0px solid transparent;
+  box-shadow: 0 0 0 0 transparent;
+}
+
 nav {
   top: 6.2em
 }

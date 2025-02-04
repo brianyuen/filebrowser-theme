@@ -11,7 +11,10 @@ header {
 }
 
 nav {
-  top: 6.2em
+  height: 90%;
+  top: 6.2em;
+  display: flex;
+  flex-direction: column;
 }
 
 @media (max-width: 736px) {
@@ -25,7 +28,8 @@ nav .action {
 }
 
 nav .material-icons {
-  font-size: 1.1rem
+  font-size: 1.1rem;
+  color: var(--blue);
 }
 
 nav button.action[aria-label="My files"] {
@@ -34,10 +38,6 @@ nav button.action[aria-label="My files"] {
 
 nav button.action[aria-label="New file"] {
   display: none
-}
-
-nav button.action[aria-label="Logout"] {
-  margin-top: 3rem;
 }
 
 nav .credits .vue-simple-progress {
@@ -50,6 +50,21 @@ nav .credits .vue-simple-progress-bar {
 
 nav .credits {
   margin: 2em 2.5em 3em 1rem !important
+}
+
+nav > div:nth-of-type(2) {
+  display: flex;
+  justify-content: end;
+  flex-grow: 1;
+  align-items: end;
+}
+
+nav > div:nth-of-type(2) span {
+  display: none
+}
+
+nav > div:nth-of-type(2) button {
+  width: auto;
 }
 
 main {
